@@ -2,7 +2,7 @@
 
 This software sets up a server to client connection in a local environment. It is simply able to send and recieve messages at the moment and is meant to be an example of how to work with sockets. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=uEuhmig7_vI)
 
 # Network Communication
 
